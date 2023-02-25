@@ -16,7 +16,7 @@
 
 ## RoadMap
 
-* [👨✈ About Team](roadmap/about-team.md)
+* [👬 Team](roadmap/team.md)
 * [🛣 Roadmap](roadmap/roadmap.md)
 * [⁉ FAQ](roadmap/faq.md)
 
