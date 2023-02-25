@@ -19,3 +19,11 @@
 * [👨✈ Audit and KYC](roadmap/audit-and-kyc.md)
 * [🛣 Roadmap](roadmap/roadmap.md)
 * [⁉ FAQ](roadmap/faq.md)
+
+## official links
+
+* [Twitter](https://twitter.com/OrdinalBTC)
+* [Telegram](http://t.me/ordinalbtc)
+* [Discord](https://discord.gg/49pH3nUdEr)
+* [GitHub](https://github.com/ordinalbtc)
+* [Medium](https://ordinalbtc.medium.com/)
