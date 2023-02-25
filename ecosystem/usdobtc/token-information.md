@@ -21,4 +21,5 @@ Tax: 0%
 
 ### Token Allocation:
 
-<table data-header-hidden><thead><tr><th></th><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>Liquidity</td><td>95%</td><td>19,950,000 $oBTC</td><td></td></tr><tr><td>Marketing</td><td>3%</td><td>630,000 $0BTC</td><td></td></tr><tr><td>Team</td><td>2%</td><td>420,000 $oBTC</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td>Liquidity</td><td>83%</td><td>17,430,000 $oBTC</td><td></td></tr><tr><td>Marketing</td><td>3%</td><td>630,000 $0BTC</td><td></td></tr><tr><td>Team</td><td>2%</td><td>420,000 $oBTC</td><td></td></tr><tr><td>Burn</td><td>12%</td><td>2,520,000 $oBTC</td><td></td></tr></tbody></table>
+
