@@ -16,7 +16,7 @@
 
 ## RoadMap
 
-* [👬 Team](roadmap/team.md)
+* [👬 Team](roadmap/audit-and-kyc.md)
 * [🛣 Roadmap](roadmap/roadmap.md)
 * [⁉ FAQ](roadmap/faq.md)
 
