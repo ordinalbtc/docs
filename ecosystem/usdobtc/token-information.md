@@ -1,4 +1,4 @@
-# Token Information
+# ℹ Token Information
 
 {% hint style="info" %}
 Disclaimer: Sending tokens/NFT under any circumstances is the responsibility of the user to ensure that the sending address is correct, Ordinal BTC is not responsible for the recovery of any $oBTC lost on the blockchain.

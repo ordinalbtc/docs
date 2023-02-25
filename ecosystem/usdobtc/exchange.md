@@ -1,4 +1,4 @@
-# Exchange
+# 📊 Exchange
 
 According to our roadmap, $oBTC is scheduled to be listed on popular DEX and CEX platforms.\
 Team is working diligently to develop and execute a CEX & DEX listing plan.&#x20;

@@ -9,8 +9,8 @@
 ## Ecosystem
 
 * [🪙 $oBTC](ecosystem/usdobtc/README.md)
-  * [Token Information](ecosystem/usdobtc/token-information.md)
-  * [Exchange](ecosystem/usdobtc/exchange.md)
+  * [ℹ Token Information](ecosystem/usdobtc/token-information.md)
+  * [📊 Exchange](ecosystem/usdobtc/exchange.md)
 * [⛏ Ordinal Pad](ecosystem/ordinal-pad.md)
 * [🎁 Benifit](ecosystem/benifit.md)
 
