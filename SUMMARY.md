@@ -11,7 +11,7 @@
 * [🪙 $oBTC](ecosystem/usdobtc/README.md)
   * [Token Information](ecosystem/usdobtc/token-information.md)
   * [Exchange](ecosystem/usdobtc/exchange.md)
-* [⛏ OrdinalPad](ecosystem/ordinalpad.md)
+* [⛏ Ordinal Pad](ecosystem/ordinal-pad.md)
 * [🎁 Benifit](ecosystem/benifit.md)
 
 ## RoadMap
