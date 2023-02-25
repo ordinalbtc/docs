@@ -22,7 +22,43 @@ The Ordinal BTC team is actively engaged in working and collaborating on the fol
 
 
 
-<figure><img src="../.gitbook/assets/partners.png" alt=""><figcaption><p>Ordinal BTC Partners</p></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/bilaxy.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/binance.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/cg.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/cmc.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/dextools.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/etherscan.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/ordinals.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/sparrow.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/uniswap.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 We welcome your interest in exploring partnership opportunities with us, and we are open to hearing any ideas for collaborations you may have. Please do not hesitate to contact us if you would like to learn more or discuss potential collaborations.
 
