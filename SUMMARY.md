@@ -16,7 +16,7 @@
 
 ## RoadMap
 
-* [👨✈ Audit and KYC](roadmap/audit-and-kyc.md)
+* [👨✈ About Team](roadmap/about-team.md)
 * [🛣 Roadmap](roadmap/roadmap.md)
 * [⁉ FAQ](roadmap/faq.md)
 

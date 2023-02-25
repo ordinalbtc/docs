@@ -6,9 +6,9 @@
 
 :white\_check\_mark: Escrow Engine Development
 
-:white\_check\_mark: dApp Public Alpha Testing
-
 :white\_check\_mark: CoinMarketCap Listing
+
+:arrows\_clockwise: dApp Public Alpha Testing (In progress)
 
 CoinGecko Listing
 

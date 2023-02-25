@@ -1,8 +1,8 @@
 # ⛏ Ordinal Pad
 
-Ordinal Pad is the main utility of our Ordinal BTC Ecosystem.
+[Ordinal Pad](https://ordinalbtc.app/) is the main utility of our Ordinal BTC Ecosystem.
 
-You can securely and transparently trade Bitcoin NFTs on the Ordinal Pad Marketplace using any payment method at any time.
+You can securely and transparently trade Bitcoin NFTs on the [Ordinal Pad](https://ordinalbtc.app/) Marketplace using any payment method at any time.
 
 ### What can you do on Ordinal Pad ?
 
