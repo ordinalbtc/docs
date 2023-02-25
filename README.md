@@ -1,0 +1,2 @@
+# docs
+Ordinal BTC Whitepaper
