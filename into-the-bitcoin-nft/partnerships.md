@@ -1,6 +1,6 @@
-# 🤝 Partnership
+# 🤝 Partnerships
 
-At Ordinal BTC, our primary focus is to provide a user-friendly platform for creators and collectors to trade unique digital assets. We are dedicated to nurturing the growth of the NFT and bitcoin ecosystem, and making it more accessible to a broader audience.
+At Ordinal BTC, our primary focus is to provide a user-friendly platform for creators and collectors to trade unique digital assets. We are dedicated to nurturing the growth of the NFT plus Ordinal ecosystem, and making it more accessible to a broader audience.
 
 Our partnership strategy aims to build collaborations that can benefit our users by presenting novel and stimulating avenues to explore and acquire NFTs. We believe that by joining forces with other organizations, we can create a more diverse and inclusive platform that reflects the interests and passions of our users.
 

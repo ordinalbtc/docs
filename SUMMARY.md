@@ -4,7 +4,7 @@
 
 * [💡 Ordinal Theory](README.md)
 * [✨ Introduction](into-the-bitcoin-nft/introduction.md)
-* [🤝 Partnership](into-the-bitcoin-nft/partnership.md)
+* [🤝 Partnerships](into-the-bitcoin-nft/partnerships.md)
 
 ## Ecosystem
 
