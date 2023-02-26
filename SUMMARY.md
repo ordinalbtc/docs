@@ -12,7 +12,7 @@
   * [ℹ Token Information](ecosystem/usdobtc/token-information.md)
   * [📊 Exchanges](ecosystem/usdobtc/exchanges.md)
 * [⛏ Ordinal Pad](ecosystem/ordinal-pad.md)
-* [🎁 Benifit](ecosystem/benifit.md)
+* [🎁 Benefits](ecosystem/benefits.md)
 
 ## RoadMap
 
