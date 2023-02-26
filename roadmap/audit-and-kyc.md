@@ -1,8 +1,14 @@
+---
+description: Who's Working on Ordinal BTC?
+---
+
 # 👬 Team
 
-The team behind Ordinal BTC is composed of a tight-knit circle of friends who possess a wealth of experience in bitcoin, NFTs, programming, trading, and marketing within the current cryptocurrency market.
+The Ordinal BTC team is comprised of a diverse group of cryptocurrency and NFT enthusiasts from different parts of the world.
 
-We recognized the need and opportunity to establish a secure and user-friendly Bitcoin NFT Marketplace on ETH that would allow for those who don't wish to transact with bitcoin but want to diversify into this market.&#x20;
+We recognized the need and opportunity to establish a secure and user-friendly Bitcoin NFT Marketplace on ETH to allow those who do not wish to transact with bitcoin the opportunity to diversify into this market
+
+Our goal is to constantly engage and energize our community, ultimately becoming one of the most rapidly expanding Web3 brands globally.
 
 ### Meet the Team
 
