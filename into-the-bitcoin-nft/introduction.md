@@ -4,11 +4,11 @@ description: ONE STOP SHOP FOR ORDINALS & INSCRIPTIONS
 
 # ✨ Introduction
 
-### What to Expect
+### What to Expect!
 
-Ordinal BTC is a secure and transparent marketplace where NFT fans can trade their Ordinals at any time
+Ordinal BTC is developing the most secure, transparent and decentralized Bitcoin NFT marketplace in crypto.
 
-Creating a platform for trading Ordinals on the Ethereum network by developing a dApp to support Ordinals which includes a UI that is intuitive, user-friendly, and ensuring that all transactions are secure and transparent.
+Creating a platform for trading Ordinals on the Ethereum network by developing a dApp to support these Ordinals which includes a UI that is intuitive and user-friendly all while ensuring transactions are secure and transparent.
 
 Our plan is to increase exposure to this new ecosystem by on ramping Ethereum users who do not already own BTC. Through the use of our platform users will be able to buy and sell Ordinals that are stored on the bitcoin network without the need to buy BTC.
 
