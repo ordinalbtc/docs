@@ -1,10 +1,10 @@
 # Table of contents
 
-## INTO THE BITCOIN NFT
+## INTRO TO ORDINALS
 
 * [💡 Ordinal Theory](README.md)
-* [✨ Introduction](into-the-bitcoin-nft/introduction.md)
-* [🤝 Partnerships](into-the-bitcoin-nft/partnerships.md)
+* [✨ Introduction](intro-to-ordinals/introduction.md)
+* [🤝 Partnerships](intro-to-ordinals/partnerships.md)
 
 ## Ecosystem
 
