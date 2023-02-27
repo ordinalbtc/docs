@@ -36,7 +36,7 @@ Our goal is to constantly engage and energize our community, ultimately becoming
 {% tab title="Community Manager" %}
 
 
-<figure><img src="../.gitbook/assets/manager small.png" alt=""><figcaption><p>GARY</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/manager small (1).png" alt=""><figcaption><p>GARY</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Head of Marketing" %}
