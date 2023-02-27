@@ -13,39 +13,35 @@ Our goal is to constantly engage and energize our community, ultimately becoming
 ### Meet the Team
 
 {% tabs %}
-{% tab title="HOWARD" %}
-Founder
-
-<figure><img src="../.gitbook/assets/howard.jpg" alt=""><figcaption><p>HOWARD</p></figcaption></figure>
+{% tab title="COO" %}
+<figure><img src="../.gitbook/assets/coo small (1).png" alt=""><figcaption><p>Howard</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="WILL" %}
-Co-Founder
-
-<figure><img src="../.gitbook/assets/will.jpg" alt=""><figcaption><p>WILL</p></figcaption></figure>
+{% tab title="CFO" %}
+<figure><img src="../.gitbook/assets/cfo small copy.png" alt=""><figcaption><p>Will</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="SPIKE" %}
-CTO
+{% tab title="CTO" %}
 
-<figure><img src="../.gitbook/assets/spike.jpg" alt=""><figcaption><p>SPIKE</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/cto small.png" alt=""><figcaption><p>SPIKE</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="GARY" %}
-Community Manager
+{% tab title="Lead Developer" %}
 
-<figure><img src="../.gitbook/assets/gary.jpg" alt=""><figcaption><p>GARY</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Dev small.png" alt=""><figcaption><p>PAULY</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="ANDY" %}
-Head of Marketing
+{% tab title="Community Manager" %}
 
-<figure><img src="../.gitbook/assets/andy.jpg" alt=""><figcaption><p>ANDY</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/manager small.png" alt=""><figcaption><p>GARY</p></figcaption></figure>
 {% endtab %}
 
-{% tab title="PAULY" %}
-Lead of Developer
+{% tab title="Head of Marketing" %}
 
-<figure><img src="../.gitbook/assets/puly.jpg" alt=""><figcaption><p>PAULY</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Marketing  small.png" alt=""><figcaption><p>ANDY</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
