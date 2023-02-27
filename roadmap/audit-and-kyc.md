@@ -12,36 +12,4 @@ Our goal is to constantly engage and energize our community, ultimately becoming
 
 ### Meet the Team
 
-{% tabs %}
-{% tab title="COO" %}
-<figure><img src="../.gitbook/assets/image_2023-02-27_23-17-26.png" alt=""><figcaption><p>Howard</p></figcaption></figure>
-{% endtab %}
-
-{% tab title="CFO" %}
-<figure><img src="../.gitbook/assets/image_2023-02-27_23-17-49.png" alt=""><figcaption><p>Will</p></figcaption></figure>
-{% endtab %}
-
-{% tab title="CTO" %}
-
-
-<figure><img src="../.gitbook/assets/image_2023-02-27_23-16-00.png" alt=""><figcaption><p>SPIKE</p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Lead Developer" %}
-
-
-<figure><img src="../.gitbook/assets/image_2023-02-27_23-16-27.png" alt=""><figcaption><p>PAULY</p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Community Manager" %}
-
-
-<figure><img src="../.gitbook/assets/manager small (1).png" alt=""><figcaption><p>GARY</p></figcaption></figure>
-{% endtab %}
-
-{% tab title="Head of Marketing" %}
-
-
-<figure><img src="../.gitbook/assets/Marketing  small.png" alt=""><figcaption><p>ANDY</p></figcaption></figure>
-{% endtab %}
-{% endtabs %}
+<figure><img src="../.gitbook/assets/Ordinal BTC Team2.jpg" alt=""><figcaption></figcaption></figure>
