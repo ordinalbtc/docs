@@ -14,23 +14,23 @@ Our goal is to constantly engage and energize our community, ultimately becoming
 
 {% tabs %}
 {% tab title="COO" %}
-<figure><img src="../.gitbook/assets/coo small (1).png" alt=""><figcaption><p>Howard</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2023-02-27_23-17-26.png" alt=""><figcaption><p>Howard</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="CFO" %}
-<figure><img src="../.gitbook/assets/cfo small copy.png" alt=""><figcaption><p>Will</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2023-02-27_23-17-49.png" alt=""><figcaption><p>Will</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="CTO" %}
 
 
-<figure><img src="../.gitbook/assets/cto small.png" alt=""><figcaption><p>SPIKE</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2023-02-27_23-16-00.png" alt=""><figcaption><p>SPIKE</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Lead Developer" %}
 
 
-<figure><img src="../.gitbook/assets/Dev small.png" alt=""><figcaption><p>PAULY</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image_2023-02-27_23-16-27.png" alt=""><figcaption><p>PAULY</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Community Manager" %}
