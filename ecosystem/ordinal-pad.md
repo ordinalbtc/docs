@@ -15,11 +15,11 @@ Fee Structure:&#x20;
 
 ### What can you do on Ordinal Pad ?
 
-:heavy\_check\_mark: Inscribe your Art on the Bitcoin network.
+:white\_circle: Inscribe your Art on the Bitcoin network.
 
-:heavy\_check\_mark: Create your own Digital Artifacts by typing text.
+:white\_circle: Create your own Digital Artifacts by typing text(AI).
 
-:heavy\_check\_mark: Trade Inscriptions using your favorite cryptocurrency.
+:white\_circle: Trade Inscriptions using your favorite cryptocurrency.
 
-:heavy\_check\_mark: Build and grow your Ordinals community.
+:white\_circle: Build and grow your Ordinals community.
 
