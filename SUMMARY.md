@@ -1,6 +1,7 @@
 # Table of contents
 
 ## LANGUAGES
+* [💡 Choose Language](LANGS.md)
 
 ## INTRO TO ORDINALS
 
