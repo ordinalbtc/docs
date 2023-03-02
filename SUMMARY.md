@@ -2,11 +2,11 @@
 
 ## LANGUAGES
 
-* [💡 Choose Language](README.md)
+* [🇺🇲 Choose Language](README.md)
 
 ## INTRO TO ORDINALS
 
-* [💡 Ordinal Theory](<README (1).md>)
+* [💡 Ordinal Theory](README.md)
 * [✨ Introduction](into-the-bitcoin-nft/introduction.md)
 * [🤝 Partnerships](into-the-bitcoin-nft/partnerships.md)
 
