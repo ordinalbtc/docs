@@ -1,5 +1,7 @@
 # Table of contents
 
+## LANGUAGES
+
 ## INTRO TO ORDINALS
 
 * [💡 Ordinal Theory](README.md)
