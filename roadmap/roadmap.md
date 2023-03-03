@@ -8,13 +8,13 @@
 
 :white\_check\_mark: CoinMarketCap Listing
 
-:arrows\_clockwise: dApp Public Alpha Testing (In progress)
+:white\_check\_mark: dApp Public Alpha Testing (In progress)
 
-CoinGecko Listing
+:white\_check\_mark: CoinGecko Listing
 
-ORDINAL PAD Beta Launch
+:white\_check\_mark: ORDINAL PAD Beta Launch
 
-Complete Product Rollout With Stress Testing
+:white\_check\_mark: Complete Product Rollout With Stress Testing
 
 Upgrading any bugs and preparing for massive marketing push
 
