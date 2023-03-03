@@ -1,4 +1,5 @@
 # 🇺🇲 Choose Language
 
-* [English](https://app.gitbook.com/o/XI0zNx9MVcIiSOBcL5ep/s/EsjMYmzBzLL9q2UqrLEA/)
-* [French](https://app.gitbook.com/s/EayRdbLfwsJW1ffBwplW/)
+* [English](broken-reference)
+* [Chinese](https://app.gitbook.com/s/lEpOJASUnDqI7GAjfkox/)
+

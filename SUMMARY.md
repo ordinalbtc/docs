@@ -6,7 +6,7 @@
 
 ## INTRO TO ORDINALS
 
-* [💡 Ordinal Theory](README.md)
+* [💡 Ordinal Theory](<README (1).md>)
 * [✨ Introduction](into-the-bitcoin-nft/introduction.md)
 * [🤝 Partnerships](into-the-bitcoin-nft/partnerships.md)
 
