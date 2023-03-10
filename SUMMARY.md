@@ -17,6 +17,15 @@
   * [📊 Exchanges](ecosystem/usdobtc/exchanges.md)
 * [⛏ Ordinal Pad](ecosystem/ordinal-pad.md)
 * [🎁 Benefits](ecosystem/benifit.md)
+* [❓ How To](ecosystem/how-to/README.md)
+  * [💵 How To Sell](ecosystem/how-to/how-to-sell/README.md)
+    * [Sign Up](ecosystem/how-to/how-to-sell/sign-up.md)
+    * [List](ecosystem/how-to/how-to-sell/list.md)
+    * [Sell & Withdraw](ecosystem/how-to/how-to-sell/sell-and-withdraw.md)
+  * [👩🌾 How To Collect](ecosystem/how-to/how-to-collect/README.md)
+    * [Discover](ecosystem/how-to/how-to-collect/discover.md)
+    * [Collect](ecosystem/how-to/how-to-collect/collect.md)
+    * [Check](ecosystem/how-to/how-to-collect/check.md)
 
 ## RoadMap
 
